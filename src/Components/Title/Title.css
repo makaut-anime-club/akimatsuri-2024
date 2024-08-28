@@ -1,0 +1,15 @@
+.title {
+    text-align: center; /* Center text inside the title */
+    margin: 20px; /* Adjust margin as needed */
+  }
+  
+  .title p {
+    font-size: 18px; /* Adjust font size for the paragraph */
+    color: #333; /* Adjust text color */
+  }
+  
+  .title h2 {
+    font-size: 36px; /* Adjust font size for the heading */
+    color: #000; /* Adjust text color */
+  }
+  
