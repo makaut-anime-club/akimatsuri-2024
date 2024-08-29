@@ -1,8 +1,27 @@
-# React + Vite
+# Akimatsuri 2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Steps to deploy changes to the project:
 
-Currently, two official plugins are available:
+1. Clone the project (if starting afresh)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```git clone https://github.com/makaut-anime-club/akimatsuri-2024.git```
+
+OR if already have the project in your system:
+
+```git pull```
+
+2. Install all dependencies (prerequisite: node preinstalled)
+
+```npm i```
+
+3. Do all your desired changes in the project and commit them on local and then remote repository 
+
+4. Create a build 
+
+```npm run build```
+
+5. Deploy on firebase
+
+```firebase deploy```
+
+All the changes made will be deployed
