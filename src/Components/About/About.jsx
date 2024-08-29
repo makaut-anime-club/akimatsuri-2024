@@ -21,7 +21,7 @@ const About = () => {
 
 
 
-<a href="../"> <button className='btn'>Donate For The Anime Club</button></a>
+<a href="#"> <button className='btn'>Donate For The Anime Club</button></a>
       </div>
     </div>
   
